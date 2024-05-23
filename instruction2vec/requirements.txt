@@ -1,0 +1,5 @@
+gensim==3.8.3
+numpy
+scipy
+six
+smart-open
