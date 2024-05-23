@@ -4,8 +4,8 @@
 - new improved embedding technique applied - **Instruction2Vec**
 - Dataset Used: [Dike Dataset](https://github.com/iosifache/DikeDataset)
 ![project flowchart/architecture](https://raw.githubusercontent.com/arsh9873/Major_Project/main/architecture.png)
-####project flowchart/architecture
+#### project flowchart/architecture
 ![Model Architecture](https://raw.githubusercontent.com/arsh9873/Major_Project/main/model.png)
-####model architecture
+#### model architecture
 ![Accuracy graph](https://raw.githubusercontent.com/arsh9873/Major_Project/main/graph.png)
-####Accuracy graph
+#### Accuracy graph
